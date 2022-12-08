@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1075776794928",
+    "project_id": "business-bag",
+    "storage_bucket": "business-bag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075776794928:android:7ac15df71300d950e7d8f5",
+        "android_client_info": {
+          "package_name": "com.krooki.businessbag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075776794928-1u04qf5psnnloskngllf1f68mu5c5l2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krooki.businessbag",
+            "certificate_hash": "67d6a42fa99fbcbec65f3f711578b3208aee146d"
+          }
+        },
+        {
+          "client_id": "1075776794928-f90auagc2lki4f0cg4pb5kf5mah1qmlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHDD_bBjU4-lf1-L0apXgfZvUs_vdl4oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075776794928-f90auagc2lki4f0cg4pb5kf5mah1qmlm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075776794928-jvepggodc9pp3lhgu9m07u3rggpka5i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.krooki.businessbug"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075776794928:android:646b9a0fd05fb472e7d8f5",
+        "android_client_info": {
+          "package_name": "com.krooki.businessbug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075776794928-59q90ohs7jk2pg2b56k4216t8b2sjark.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krooki.businessbug",
+            "certificate_hash": "67d6a42fa99fbcbec65f3f711578b3208aee146d"
+          }
+        },
+        {
+          "client_id": "1075776794928-f90auagc2lki4f0cg4pb5kf5mah1qmlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHDD_bBjU4-lf1-L0apXgfZvUs_vdl4oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075776794928-f90auagc2lki4f0cg4pb5kf5mah1qmlm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075776794928-jvepggodc9pp3lhgu9m07u3rggpka5i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.krooki.businessbug"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

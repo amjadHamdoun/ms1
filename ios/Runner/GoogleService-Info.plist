@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1075776794928-5dpl58ti5lpekufht0uk21948v7chl83.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1075776794928-5dpl58ti5lpekufht0uk21948v7chl83</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1075776794928-1u04qf5psnnloskngllf1f68mu5c5l2g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDpZR5j45mkNyh5fJGQ5csw2ksc3B4bPSU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1075776794928</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.krooki.businessbag</string>
+	<key>PROJECT_ID</key>
+	<string>business-bag</string>
+	<key>STORAGE_BUCKET</key>
+	<string>business-bag.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1075776794928:ios:6247c78bfc73d19de7d8f5</string>
+</dict>
+</plist>

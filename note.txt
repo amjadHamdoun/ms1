@@ -1,0 +1,2 @@
+com.krooki.businessbag org
+com.krooki.businessbagadmin admin
